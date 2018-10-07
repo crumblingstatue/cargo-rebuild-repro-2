@@ -1,0 +1,6 @@
+[package]
+name = "rand"
+version = "0.5.5"
+
+[dependencies.libc]
+path = "../libc"

@@ -1,0 +1,6 @@
+[package]
+name = "string_cache_codegen"
+version = "0.4.1"
+
+[dependencies.phf_generator]
+path = "../../phf_generator"

@@ -1,0 +1,8 @@
+[package]
+
+name = "string_cache"
+version = "0.1.0"
+build = "build.rs"
+
+[build-dependencies]
+string_cache_codegen = { path = "./string-cache-codegen" }

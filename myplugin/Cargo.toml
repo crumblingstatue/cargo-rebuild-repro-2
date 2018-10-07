@@ -1,0 +1,6 @@
+[package]
+name = "myplugin"
+version = "0.1.0"
+
+[dependencies.string_cache]
+path = "../stringcache"
